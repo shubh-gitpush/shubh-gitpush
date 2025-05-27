@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer interested in Machine Learning and exploring Big Data to extract valuable insights.</h3>
 
 - 🔭 I’m currently working on a [Database Management System](https://github.com/shubh-gitpush/database_management_system)  
-- 🌱 I’m currently learning pursuing bachelor of engineering.  
+- 🌱 I’m currently pursuing bachelor of engineering.  
 - 🤝 Looking for collaborators to help me implement LLMs and AI models for my [Inventory Management System](https://github.com/shubh-gitpush/database_management_system)  
 - 👨‍💻 All of my projects are available at [github.com/shubh-gitpush](https://github.com/shubh-gitpush)  
 - 📫 Reach me at: **shubhrai598@gmail.com**  
