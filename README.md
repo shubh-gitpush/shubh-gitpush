@@ -57,3 +57,4 @@
     <img src="https://holopin.io/api/user/board?user=shubhgitpush" />
   </a>
 </p>
+[![An image of @shubhgitpush's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubhgitpush)](https://holopin.io/@shubhgitpush)
