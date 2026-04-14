@@ -54,6 +54,6 @@
 
 <p align="center">
   <a href="https://holopin.io/@shubhgitpush">
-    <img src="https://holopin.io/api/user/board?user=your-username" />
+    <img src="https://holopin.io/api/user/board?user=@shubhgitpush" />
   </a>
 </p>
