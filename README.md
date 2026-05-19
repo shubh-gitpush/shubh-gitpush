@@ -42,8 +42,7 @@
   <tr>
     <td align="flex-start" valign="top">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /><br/>
-      <img src="https://img.shields.io/badge/C++
--00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" /><br/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" /><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /><br/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" /><br/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
@@ -73,10 +72,8 @@
 
 ### 📊 GitHub Dashboard
 
-### 📊 GitHub Dashboard
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubh-gitpush&show_icons=true&theme=dark&hide_border=false" alt="Shubh's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubh-gitpush&show_icons=true&theme=dark" alt="Shubh's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh-gitpush&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </p>
 
