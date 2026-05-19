@@ -73,13 +73,11 @@
 
 ### 📊 GitHub Dashboard
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubh-gitpush&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Shubh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh-gitpush&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+### 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh-gitpush&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubh-gitpush&show_icons=true&theme=dark&hide_border=false" alt="Shubh's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh-gitpush&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </p>
 
 ---
