@@ -1,60 +1,99 @@
-<h1 align="center">Hi 👋, I'm Shubh</h1>
-<h3 align="center">A passionate developer interested in Machine Learning and exploring Big Data to extract valuable insights.</h3>
+<h1 align="center">Hi 👋, I'm Shubh Rai</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on a [Database Management System](https://github.com/shubh-gitpush/database_management_system)  
-- 🌱 I’m currently pursuing bachelor of engineering.  
-- 🤝 Looking for collaborators to help me implement LLMs and AI models for my [Inventory Management System](https://github.com/shubh-gitpush/database_management_system)  
-- 👨‍💻 All of my projects are available at [github.com/shubh-gitpush](https://github.com/shubh-gitpush)  
-- 📫 Reach me at: **shubhrai598@gmail.com**  
+<p align="center">
+  <strong>A passionate developer focused on building robust backend systems, exploring Machine Learning, and leveraging Big Data to extract valuable insights.</strong>
+</p>
 
----
-
-### 🌐 Connect with me:
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/shubh-rai-82642a1b1/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/bbqvzihbum/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:shubhrai598@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
+### 🚀 About Me
+
+- 🔭 **Current Focus:** Developing a robust, optimized [Database Management System](https://github.com/shubh-gitpush/database_management_system).
+- 🌱 **Education:** Pursuing a Bachelor of Engineering in Computer Science and Engineering.
+- 🤝 **Collaboration:** Looking to team up with developers to implement **LLMs, Reinforcement Learning, and AI agents** into an intelligent **Inventory Management System**.
+- 💬 **Ask me about:** Python, Django ecosystem, building full-stack apps, or competitive programming strategy.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<table>
+  <tr>
+    <td align="center" width="25%"><strong>Languages</strong></td>
+    <td align="center" width="25%"><strong>Frameworks</strong></td>
+    <td align="center" width="25%"><strong>Data & ML</strong></td>
+    <td align="center" width="25%"><strong>Tools & Cloud</strong></td>
+  </tr>
+  <tr>
+    <td align="flex-start" valign="top">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /><br/>
+      <img src="https://img.shields.io/badge/C++
+-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" /><br/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+    </td>
+    <td align="flex-start" valign="top">
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" /><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" /><br/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
+    </td>
+    <td align="flex-start" valign="top">
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /><br/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" /><br/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" /><br/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+    </td>
+    <td align="flex-start" valign="top">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" /><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" /><br/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-webservices&logoColor=white" alt="AWS" /><br/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" /><br/>
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubh-gitpush&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Shubh's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh-gitpush&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh-gitpush&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh-gitpush&show_icons=true&locale=en&layout=compact" alt="shubh-gitpush" />
-</p>
-
+### 🏅 Digital Badges
 
 <p align="center">
   <a href="https://holopin.io/@shubhgitpush">
-    <img src="https://holopin.io/api/user/board?user=shubhgitpush" />
+    <img src="https://holopin.io/api/user/board?user=shubhgitpush" alt="Holopin Badges" />
   </a>
 </p>
-[![An image of @shubhgitpush's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubhgitpush)](https://holopin.io/@shubhgitpush)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubh-gitpush&color=blue" alt="Profile Views" />
+</p>
